@@ -4,6 +4,7 @@ public class First{
 		
 		System.out.println("Hello Everyone...");
 		System.out.println("Git Lecture");
+		System.out.println("New Line");
 	}
 	
 }
